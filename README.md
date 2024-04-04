@@ -26,7 +26,7 @@ This landing page serves as a playground to experiment with GSAP animations and 
 
 ## Live Website
 
-Explore the live GSAP landing page practice project: [GSAP Landing Page](https://www.gsap-landing-page-demo.com)
+Explore the live GSAP landing page practice project: [GSAP Landing Page](https://antra77.github.io/Gsap-landing-page/)
 
 ## Getting Started
 
